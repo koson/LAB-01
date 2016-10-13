@@ -50,8 +50,8 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
  จากการทดลอง พบว่า โปรแกรมจะแสดง messagebox ที่หน้าจอ โดยมีภาพดังนี้
  
+<img src = "https://github.com/koson/LAB-01/blob/master/lab1.PNG?raw=true"> 
  
- [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
