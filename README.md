@@ -48,6 +48,9 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
+ จากการทดลอง พบว่า โปรแกรมจะแสดง messagebox ที่หน้าจอ โดยมีภาพดังนี้
+ 
+ 
  [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
 
 ## คำถาม 
